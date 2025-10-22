@@ -35,7 +35,7 @@ pip install torch torchvision tqdm numpy pillow tensorboard
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Anupam912/gan-project.git
+git clone https://github.com/Anupam912/GAN_Synthetic_Data_Generation.git
 cd gan-project
 ```
 
